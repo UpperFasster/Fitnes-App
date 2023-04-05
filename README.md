@@ -1,6 +1,6 @@
 # fitnessapp
 
-TEST
+Flutter app for fiteness with foods info
 
 ## Getting Started
 
